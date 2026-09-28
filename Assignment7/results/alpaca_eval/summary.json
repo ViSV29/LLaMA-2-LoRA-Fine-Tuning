@@ -1,0 +1,6 @@
+{
+  "judge_model": "gpt-4o-mini",
+  "samples": 100,
+  "raw_win_rate": 0.78,
+  "length_controlled_win_rate": 0.6896522927386318
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tuned_model",
+  "pretty_name": "Llama2-7B Dolly LoRA",
+  "model_type": "hf",
+  "model_path": "Assignment7/models/llama2-7b-dolly-lora",
+  "generate_kwargs": {
+    "max_new_tokens": 256,
+    "temperature": 0.7
+  }
+}

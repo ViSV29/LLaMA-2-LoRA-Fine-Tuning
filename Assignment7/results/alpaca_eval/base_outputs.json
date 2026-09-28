@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+    "output": "- [ ] Al Pacino\n- [ ] Robert De Niro\n- [ ] Meryl Streep\n- [ ] Dustin Hoffman\n- [ ] James Earl Jones\n- [ ] Christopher Walken\n- [ ] Kevin Spacey\n- [ ] Nathan Lane\n- [ ] Matthew Broderick\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane\n- [ ] Nathan Lane"
+  },
+  {
+    "instruction": "How did US states get their names?",
+    "output": "| State | Name |\n| ---- | ---- |\n| Alabama | Alabama |\n| Alaska | Alaska |\n| Arizona | Arizona |\n| Arkansas | Arkansas |\n| California | California |\n| Colorado | Colorado |\n| Connecticut | Connecticut |\n| Delaware | Delaware |\n| Florida | Florida |\n| Georgia | Georgia |\n| Hawaii | Hawaii |\n| Idaho | Idaho |\n| Illinois | Illinois |\n| Indiana | Indiana |\n| Iowa | Iowa |\n| Kansas | Kansas |\n| Kentucky | Kentucky |\n| Louisiana | Louisiana |\n| Maine | Maine |\n| Maryland | Maryland |\n| Massachusetts | Massachusetts |\n| Michigan | Michigan |\n| Minnesota | Minnesota |\n| Mississippi | Mississippi |\n| Missouri | Missouri |\n| Montana | Montana |\n| Nebraska | Nebraska |\n| Nevada | Nevada |\n| New Hampshire | New Hampshire |\n| New Jersey | New Jersey |\n| New Mexico | New Mexico |\n| New York | New York |\n| North Carolina | North Carolina |\n| North Dakota | North Dakota |\n| Ohio | Ohio |"
+  },
+  {
+    "instruction": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+    "output": "Kickball is a game where you kick a ball around a field.\n\n### Examples:\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\"\n* \"I'm going to play kickball with my sister and her friends.\""
+  },
+  {
+    "instruction": "What is some cool music from the 1920s?",
+    "output": "* [1920s music](https://www.youtube.com/watch?v=557755_5744)\n\n### Explanation:\n\n* [1920s music](https://www.youtube.com/watch?v=557755_5744)\n\n### Hints:\n\n* [1920s music](https://www.youtube.com/watch?v=557755_5744)\n\n### Notes:\n\n* [1920s music](https://www.youtube.com/watch?v=557755_5744)\n\n### Attributions:\n\n* [1920s music](https://www.youtube.com/watch?v=557755_5744)"
+  },
+  {
+    "instruction": "How do I wrap a present neatly?",
+    "output": "```\nWrap the present in a piece of paper.\n```\n\n### Explanation:\n\n```\nWrap the present in a piece of paper.\n```\n\n### Hints:\n\n- [ ] Use the `wrap` function.\n- [ ] Use the `paper` function.\n\n### Notes:\n\n- [ ] You can use any of the functions from the `utils` module.\n- [ ] You can use any of the functions from the `math` module.\n- [ ] You can use any of the functions from the `string` module.\n- [ ] You can use any of the functions from the `array` module.\n- [ ] You can use any of the functions from the `object` module.\n- [ ] You can use any of the functions from the `date` module.\n- [ ] You can use any of the functions from the `regex` module.\n- [ ] You can use any of the functions from the `path` module.\n- [ ] You can use any of the functions from the `url` module.\n- [ ] You can use any of the functions from the `http` module."
+  },
+  {
+    "instruction": "How do I dice without slicing my finger",
+    "output": "```\nDice are a great way to get a random number.\n\nTo dice, you need to roll a die.\n\nTo roll a die, you need to flip it.\n\nTo flip a die, you need to pick it up.\n\nTo pick up a die, you need to hold it.\n\nTo hold a die, you need to grab it.\n\nTo grab a die, you need to reach for it.\n\nTo reach for a die, you need to extend your arm.\n\nTo extend your arm, you need to bend your elbow.\n\nTo bend your elbow, you need to straighten your arm.\n\nTo straighten your arm, you need to bend your wrist.\n\nTo bend your wrist, you need to turn your hand.\n\nTo turn your hand, you need to rotate your wrist.\n\nTo rotate your wrist, you need to move your fingers.\n\nTo move your fingers, you need to bend your thumb.\n\nTo bend your thumb, you need to straighten your index finger.\n\nTo straighten your index finger, you need to bend your middle"
+  },
+  {
+    "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+    "output": "Hi, I'm glad to help!\n\n### Instruction:\nHi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?\n\n### Context:\nN/A\n\n### Response:\nHi, I'm glad to help!\n\n### Instruction:\nHi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?\n\n### Context:\nN/A\n\n### Response:\nHi, I'm glad to help!\n\n### Instruction:\nHi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?\n\n### Context:\nN/A\n\n### Response:\nHi, I'm glad to help!\n\n### Instruction:\nHi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?\n\n### Context:\nN/A\n\n##"
+  },
+  {
+    "instruction": "Who is Larry Page?",
+    "output": "N/A\n\n### Difficulty:\nEasy\n\n### Hints:\nN/A\n\n### Solutions:\nN/A"
+  },
+  {
+    "instruction": "What are different drawers I should have for clothes?",
+    "output": "- 1. Clothes\n- 2. Shoes\n- 3. Accessories\n\n### Explanation:\n\n- 1. Clothes\n- 2. Shoes\n- 3. Accessories\n\n### Notes:\n\n- 1. Clothes\n- 2. Shoes\n- 3. Accessories\n\n### Hints:\n\n- 1. Clothes\n- 2. Shoes\n- 3. Accessories\n\n### Solutions:\n\n- 1. Clothes\n- 2. Shoes\n- 3. Accessories\n\n### Links:\n\n- [Wikipedia](https://en.wikipedia.org/wiki/Clothing)\n- [Wikipedia](https://en.wikipedia.org/wiki/Shoe)\n- [Wikipedia](https://en.wikipedia.org/wiki/Accessory)"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+    "output": "* Kubdari is a Georgian dish.\n* It is a dish made of meat and vegetables.\n* It is a dish that is served with a sauce.\n* It is a dish that is served with a side of rice.\n* It is a dish that is served with a side of potatoes.\n* It is a dish that is served with a side of vegetables.\n* It is a dish that is served with a side of bread.\n* It is a dish that is served with a side of salad.\n* It is a dish that is served with a side of cheese.\n* It is a dish that is served with a side of yogurt.\n* It is a dish that is served with a side of sour cream.\n* It is a dish that is served with a side of butter.\n* It is a dish that is served with a side of mayonnaise.\n* It is a dish that is served with a side of ketchup.\n* It is a dish that is served with a side of mustard.\n* It is a dish that"
+  },
+  {
+    "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+    "output": "Retinoids are effective in treating acne.\n\n### Source:\n[Acne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177599/)"
+  },
+  {
+    "instruction": "I'm trying to teach myself to have nicer handwriting. Can you help?",
+    "output": "- [x] I'm not sure what you mean.\n- [ ] I'm not sure how to help.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try.\n- [ ] I'm not sure how to help, but I'll try."
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+    "output": "```\nCanjeero is a traditional Somali dish. It is a type of porridge made from maize flour. It is usually served with meat or vegetables.\n\nTo make Canjeero, you will need:\n- Maize flour\n- Water\n- Salt\n- Oil\n\n1. Mix the maize flour with water until it forms a dough.\n2. Add salt and oil to the dough.\n3. Knead the dough until it is smooth.\n4. Shape the dough into balls.\n5. Cook the balls in boiling water for about 10 minutes.\n6. Serve with meat or vegetables.\n```\n\n### Source:\n[https://www.recipestable.com/recipe/canjeero-somali-porridge](https://www.recipestable.com/recipe/canjeero-somali-porridge)"
+  },
+  {
+    "instruction": "What are the best exercises for beginners?",
+    "output": "##### Exercise 1:\n\n##### Exercise 2:\n\n##### Exercise 3:\n\n##### Exercise 4:\n\n##### Exercise 5:\n\n##### Exercise 6:\n\n##### Exercise 7:\n\n##### Exercise 8:\n\n##### Exercise 9:\n\n##### Exercise 10:\n\n##### Exercise 11:\n\n##### Exercise 12:\n\n##### Exercise 13:\n\n##### Exercise 14:\n\n##### Exercise 15:\n\n##### Exercise 16:\n\n##### Exercise 17:\n\n##### Exercise 18:\n\n##### Exercise 19:\n\n##### Exercise 20:\n\n##### Exercise 21:\n\n##### Exercise 22:\n\n##### Exercise 23:\n\n##### Exercise 24:"
+  },
+  {
+    "instruction": "Do you know why turkeys became the official food of thanksgiving?",
+    "output": "- [Answer](answer)"
+  },
+  {
+    "instruction": "I want to get better at networking at work",
+    "output": "I'm not sure what you mean by \"networking at work\".\n\n### Expected Response:\nI'm not sure what you mean by \"networking at work\".\n\n### Notes:\nN/A\n\n### Difficulty:\nEasy\n\n### Tags:\nN/A\n\n### Related:\nN/A"
+  },
+  {
+    "instruction": "Are there any weird Christmas traditions?",
+    "output": "* [Yes](https://github.com/jason-watson/christmas-questions/blob/master/responses/yes.md)\n* [No](https://github.com/jason-watson/christmas-questions/blob/master/responses/no.md)\n\n### Examples:\n\n* [Yes](https://github.com/jason-watson/christmas-questions/blob/master/examples/yes.md)\n* [No](https://github.com/jason-watson/christmas-questions/blob/master/examples/no.md)\n\n### Related:\n\n* [What is your favorite Christmas song?](https://github.com/jason-watson/christmas-questions/blob/master/questions/what-is-your-favorite-christmas-song.md)\n* [What is your favorite Christmas movie?](https://github.com/jason-watson/christmas-questions/blob/master/questions/what-is-your-favorite-christmas-"
+  },
+  {
+    "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?",
+    "output": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?\n\n### Expected Response:\nHi, I'm interested in learning to play badminton. Can you explain the game to me?\n\n### Note:\nN/A\n\n### Source:\nN/A\n\n### Tags:\nN/A"
+  },
+  {
+    "instruction": "Do you know why cats always rub up against your legs?",
+    "output": "|:---|:---|\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |\n| :--- | :--- |"
+  },
+  {
+    "instruction": "I am going to try to roast a pig at home for Thanksgiving this year. What equipment and techniques do I need to successfully get a pig roasted?",
+    "output": "#### 1. What is the best way to roast a pig?\n\n#### 2. What is the best way to roast a pig?\n\n#### 3. What is the best way to roast a pig?\n\n#### 4. What is the best way to roast a pig?\n\n#### 5. What is the best way to roast a pig?\n\n#### 6. What is the best way to roast a pig?\n\n#### 7. What is the best way to roast a pig?\n\n#### 8. What is the best way to roast a pig?\n\n#### 9. What is the best way to roast a pig?\n\n#### 10. What is the best way to roast a pig?\n\n#### 11. What is the best way to roast a pig?\n\n#### 12. What is the best way to roast a pig?\n\n#### 13. What is the best way to roast a pig?\n\n#### 14. What is the best way to roast a pig?"
+  },
+  {
+    "instruction": "Help me find a good rated electric saw.",
+    "output": "* [Electric saws](https://www.homedepot.com/b/Power-Tools-Hand-Tools-Saws-Electric-Saws/N-5yc1vZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zcZb2zc"
+  },
+  {
+    "instruction": "What are some artists I might like if I like Billy Joel?",
+    "output": "* [Billy Joel](https://www.discogs.com/artist/1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "instruction": "What type of soil is suitable for cactus?",
+    "output": "- [ ] Sandy\n- [ ] Clay\n- [ ] Loamy\n- [ ] Peaty\n\n### Explanation:\n\n- [ ] Sandy\n- [ ] Clay\n- [ ] Loamy\n- [ ] Peaty\n\n### Instruction:\n\nWhat is the best way to water a cactus?\n\n### Context:\nN/A\n\n### Response:\n\n- [ ] Water it once a week\n- [ ] Water it once a month\n- [ ] Water it once a year\n- [ ] Water it once a day\n\n### Explanation:\n\n- [ ] Water it once a week\n- [ ] Water it once a month\n- [ ] Water it once a year\n- [ ] Water it once a day\n\n### Instruction:\n\nWhat is the best way to fertilize a cactus?\n\n### Context:\nN/A\n\n### Response:\n\n- [ ] Fertilize it once a week\n- [ ] Fertilize it once a month\n- [ ] Fertilize it once a year\n- [ ] Fert"
+  },
+  {
+    "instruction": "How do you become an author?",
+    "output": "##### 1.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 2.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 3.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 4.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 5.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 6.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 7.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 8.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 9.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 10.\n\n```\n$ echo \"Hello, World!\" > hello.txt\n```\n\n##### 11.\n\n```\n$ echo \"Hello"
+  },
+  {
+    "instruction": "What breed dog is smallest?",
+    "output": "[![](https://img.shields.io/badge/Answer-1-green.svg)](https://github.com/CodingInterviewPrep/CodingInterviewPrep.github.io/blob/master/questions/dog_breed_smallest.md)\n\n### Explanation:\n\n### Notes:\n\n### Hints:\n\n### Test-cases:\n\n### Code:\n\n### Ref:"
+  },
+  {
+    "instruction": "What are some species of bears that are now extinct?",
+    "output": "* Brown bear\n* Polar bear\n* Sun bear\n* Sloth bear\n* Spectacled bear\n* Asiatic black bear\n* American black bear\n* Giant panda\n* Red panda\n* Himalayan brown bear\n* Himalayan black bear\n* Malayan sun bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear\n* Malayan bear"
+  },
+  {
+    "instruction": "What causes the northern lights?",
+    "output": "* The northern lights are caused by the solar winds.\n\n### Explanation:\n\nThe solar winds are the charged particles that are emitted from the sun. These particles are constantly being emitted from the sun and are constantly moving. The solar winds are constantly moving and are constantly hitting the earth. The solar winds are constantly hitting the earth and are constantly causing the northern lights.\n\n### Hints:\n\n* The solar winds are constantly hitting the earth and are constantly causing the northern lights.\n\n### Notes:\n\n* The solar winds are constantly hitting the earth and are constantly causing the northern lights.\n\n### Related Problems:\n\n* [100. The Northern Lights](https://leetcode.com/problems/the-northern-lights/)"
+  },
+  {
+    "instruction": "What are some good foods to eat when you are sick? I am looking for something to make my girlfriend to eat.",
+    "output": "- [ ] [Foods to eat when you are sick](https://www.healthline.com/nutrition/foods-to-eat-when-youre-sick)\n- [ ] [Foods to eat when you are sick](https://www.healthline.com/nutrition/foods-to-eat-when-youre-sick)\n- [ ] [Foods to eat when you are sick](https://www.healthline.com/nutrition/foods-to-eat-when-youre-sick)\n- [ ] [Foods to eat when you are sick](https://www.healthline.com/nutrition/foods-to-eat-when-youre-sick)\n- [ ] [Foods to eat when you are sick](https://www.healthline.com/nutrition/foods-to-eat-when-youre-sick)\n- [ ] [Foods to eat when you are sick](https://www.healthline.com/nutrition/foods"
+  },
+  {
+    "instruction": "Why is kobe beef so damn expensive?",
+    "output": "Kobe beef is expensive because it is a luxury food.\n\n### Explanation:\n\nKobe beef is a luxury food. It is expensive because it is a luxury food.\n\n### Hints:\n\n- Kobe beef is a luxury food.\n- Kobe beef is expensive because it is a luxury food.\n\n### Notes:\n\n- Kobe beef is a luxury food.\n- Kobe beef is expensive because it is a luxury food.\n\n### Related Problems:\n\n[100. Kobe Beef](https://leetcode.com/problems/kobe-beef/)"
+  },
+  {
+    "instruction": "How do I clean my armpits?",
+    "output": "* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with soap and water.\n* Clean your armpits with"
+  },
+  {
+    "instruction": "How do I detail a car?",
+    "output": "```\nThe car is detailed.\n```\n\n### Examples:\n\n```\nThe car is detailed.\n```\n\n### Notes:\n\nN/A\n\n### Related:\n\n- [How do I detail a car?](https://github.com/jason-watson/conversation-starters/tree/master/how-do-i-detail-a-car)\n- [How do I detail a car?](https://github.com/jason-watson/conversation-starters/tree/master/how-do-i-detail-a-car)\n- [How do I detail a car?](https://github.com/jason-watson/conversation-starters/tree/master/how-do-i-detail-a-car)\n- [How do I detail a car?](https://github.com/jason-watson/conversation-starters/tree/master/how-do-i-detail-a-car)\n- [How do I detail a car?](https://github.com/jason-watson/convers"
+  },
+  {
+    "instruction": "I am going to make pumpkin pie for the first time.  Can you help me?",
+    "output": "I can help you.  I have made pumpkin pie before.  I will tell you what to do.\n\n### Output:\nI will need a pumpkin.  I will need a can of pumpkin.  I will need a can of evaporated milk.  I will need a can of sweetened condensed milk.  I will need a can of pumpkin pie spice.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin pie filling.  I will need a can of pumpkin"
+  },
+  {
+    "instruction": "What kind of foods do they eat in Thailand",
+    "output": "- [x] They eat rice\n- [ ] They eat noodles\n- [ ] They eat fruits\n- [ ] They eat vegetables\n- [ ] They eat meat\n- [ ] They eat fish\n- [ ] They eat eggs\n- [ ] They eat chicken\n- [ ] They eat pork\n- [ ] They eat beef\n- [ ] They eat duck\n- [ ] They eat shrimp\n- [ ] They eat crab\n- [ ] They eat lobster\n- [ ] They eat squid\n- [ ] They eat octopus\n- [ ] They eat clams\n- [ ] They eat mussels\n- [ ] They eat oysters\n- [ ] They eat snails\n- [ ] They eat snakes\n- [ ] They eat frogs\n- [ ] They eat insects\n- [ ] They eat spiders\n- [ ] They eat scorpions\n- [ ] They eat centipedes\n- [ ] They eat worms\n- [ ] They eat ants\n- [ ] They eat termites\n- [ ] They eat crickets\n- [ ] They eat grasshoppers\n-"
+  },
+  {
+    "instruction": "What are some good browser alternatives to Chrome?",
+    "output": "- [Firefox](https://www.mozilla.org/en-US/firefox/new/)\n- [Opera](https://www.opera.com/en-us/computer/download)\n- [Brave](https://brave.com/download/)\n- [Vivaldi](https://vivaldi.com/en-US/download/)\n- [Safari](https://www.apple.com/safari/)\n- [Microsoft Edge](https://www.microsoft.com/en-us/edge)\n- [Chromium](https://www.chromium.org/Home)\n\n### Source:\n[Stack Overflow](https://stackoverflow.com/questions/105584/what-are-some-good-browser-alternatives-to-google-chrome)"
+  },
+  {
+    "instruction": "Who created the Superman cartoon character?",
+    "output": "```\nSuperman was created by Jerry Siegel and Joe Shuster.\n```\n\n### Explanation:\n\n```\nSuperman was created by Jerry Siegel and Joe Shuster.\n```\n\n### Hints:\n\n```\nSuperman was created by Jerry Siegel and Joe Shuster.\n```\n\n### Notes:\n\n```\nSuperman was created by Jerry Siegel and Joe Shuster.\n```\n\n### Links:\n\n- [Wikipedia](https://en.wikipedia.org/wiki/Superman)"
+  },
+  {
+    "instruction": "What is Atlantis?",
+    "output": "N/A\n\n### Difficulty:\nEasy\n\n### Hints:\nN/A\n\n### Notes:\nN/A\n\n### Solutions:\n\n```python\nimport sys\n\nsys.stdin = open('input.txt', 'r')\n\ndef main():\n    pass\n\nif __name__ == '__main__':\n    main()\n```"
+  },
+  {
+    "instruction": "How do I make escargot?",
+    "output": "```\nThe escargot is ready.\n```\n\n### Examples:\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot.\n```\n\n```\nI'd like to order escargot"
+  },
+  {
+    "instruction": "What exactly causes volcanoes to form?",
+    "output": "##### 1.\n\n##### 2.\n\n##### 3.\n\n##### 4.\n\n##### 5.\n\n##### 6.\n\n##### 7.\n\n##### 8.\n\n##### 9.\n\n##### 10.\n\n##### 11.\n\n##### 12.\n\n##### 13.\n\n##### 14.\n\n##### 15.\n\n##### 16.\n\n##### 17.\n\n##### 18.\n\n##### 19.\n\n##### 20.\n\n##### 21.\n\n##### 22.\n\n##### 23.\n\n##### 24.\n\n##### 25.\n\n##### 26.\n\n##### 27.\n\n##### 28.\n\n##### 29.\n\n##### 30.\n\n##### 31.\n\n##### 32.\n\n##### 33."
+  },
+  {
+    "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+    "output": "```\nTahini is a sauce made from sesame seeds. It is used as a dip for falafel, and as a sauce for hummus.\n\nTo make tahini, you will need:\n\n- 1 cup sesame seeds\n- 1/2 cup olive oil\n- 1/2 cup water\n\nFirst, you will need to roast the sesame seeds. Preheat your oven to 350 degrees Fahrenheit. Place the sesame seeds on a baking sheet and roast them for 10-15 minutes, or until they are fragrant and golden brown.\n\nNext, you will need to grind the sesame seeds. Place the sesame seeds in a food processor or blender and grind them until they are a fine powder.\n\nFinally, you will need to combine the sesame seeds, olive oil, and water. Place the sesame seeds, olive oil, and water in a saucepan and heat them over medium heat until the mixture is smooth and creamy.\n\nThat's it! You have now made your own tah"
+  },
+  {
+    "instruction": "Should I get my children a nanny? I'm so exhausted.",
+    "output": "I'm not sure if you're asking me or your children.\n\n### Explanation:\n\nI'm not sure if you're asking me or your children.\n\n### Hints:\n\n- 1.\n- 2.\n- 3.\n- 4.\n- 5.\n- 6.\n- 7.\n- 8.\n- 9.\n- 10.\n- 11.\n- 12.\n- 13.\n- 14.\n- 15.\n- 16.\n- 17.\n- 18.\n- 19.\n- 20.\n- 21.\n- 22.\n- 23.\n- 24.\n- 25.\n- 26.\n- 27.\n- 28.\n- 29.\n- 30.\n- 31.\n- 32.\n- 33.\n- 34.\n- 35.\n- 36."
+  },
+  {
+    "instruction": "When was Canada colonized?",
+    "output": "- Canada was colonized in 1867.\n\n### Explanation:\nCanada was colonized in 1867.\n\n### Hints:\n- [Canada](https://en.wikipedia.org/wiki/Canada)\n- [Colonization](https://en.wikipedia.org/wiki/Colonization)\n\n### Similar Questions:\n- [When was the United States colonized?](when-was-the-united-states-colonized.md)\n- [When was Australia colonized?](when-was-australia-colonized.md)\n- [When was the United Kingdom colonized?](when-was-the-united-kingdom-colonized.md)\n- [When was the Netherlands colonized?](when-was-the-netherlands-colonized.md)\n- [When was France colonized?](when-was-france-colonized.md)\n- [When was Germany colonized?](when-was-germany-colonized.md)\n- [When was Russia colonized?](when-was-russia-colonized.md)"
+  },
+  {
+    "instruction": "How can I  use my phone less?",
+    "output": "* [How to use your phone less](https://www.youtube.com/watch?v=545555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555"
+  },
+  {
+    "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+    "output": "The Earth is spherical because it is a sphere.\n\n### Explanation:\nThe Earth is spherical because it is a sphere.\n\n### Hints:\n\n* The Earth is spherical because it is a sphere.\n\n### Notes:\n\n* The Earth is spherical because it is a sphere.\n\n### Related Problems:\n\n* [100. The Earth is Spherical](../100.md)"
+  },
+  {
+    "instruction": "What is Gremolata?",
+    "output": "Gremolata is a mixture of chopped herbs and spices.\n\n### Explanation:\nGremolata is a mixture of chopped herbs and spices.\n\n### Hints:\n\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture of chopped herbs and spices.\n- Gremolata is a mixture"
+  },
+  {
+    "instruction": "Why did humans evolve to believe in God?",
+    "output": "* [Why did humans evolve to believe in God?](https://www.reddit.com/r/askscience/comments/45777u/why_did_humans_evolve_to_believe_in_god/)\n\n### Source:\n[Reddit](https://www.reddit.com/r/askscience/)"
+  },
+  {
+    "instruction": "what should i build a cabin out of?",
+    "output": "* [ ] Wood\n* [ ] Stone\n* [ ] Metal\n* [ ] Other (specify below)\n\n### Notes:\n\n* [ ] I don't need to build a cabin\n* [ ] I don't need to build anything\n\n### Specify what you built above\n\n* [ ] Wood cabin\n* [ ] Stone cabin\n* [ ] Metal cabin\n* [ ] Other (specify below)\n\n### Notes:\n\n* [ ] I don't need to build a cabin\n* [ ] I don't need to build anything\n\n### Specify what you built above\n\n* [ ] Wood cabin\n* [ ] Stone cabin\n* [ ] Metal cabin\n* [ ] Other (specify below)\n\n### Notes:\n\n* [ ] I don't need to build a cabin\n* [ ] I don't need to build anything\n\n### Specify what you built above\n\n* [ ] Wood cabin\n* [ ] Stone cabin\n* [ ] Metal cabin\n* [ ] Other (specify below)\n\n### Notes:\n\n* [ ] I don't need to build"
+  },
+  {
+    "instruction": "Why do a lot of Scientists not believe in God or Satan?",
+    "output": "- [Why do a lot of Scientists not believe in God or Satan?](https://www.reddit.com/r/DebateReligion/comments/45777u/why_do_a_lot_of_scientists_not_believe_in_god_or/)\n\n### Source:\n[Reddit](https://www.reddit.com/r/DebateReligion/)\n\n### Hashtags:\n\n* [[Science](https://www.reddit.com/r/DebateReligion/comments/45777u/why_do_a_lot_of_scientists_not_believe_in_god_or/)](https://www.reddit.com/r/DebateReligion/comments/45777u/why_do_a_lot_of_scientists_not_believe_in_god_or/)\n* [[Satan](https://www.reddit.com/r/DebateReligion/comments/45777u/why_do_a_lot_of"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?",
+    "output": "* Mauritian cuisine is a blend of Indian, Chinese, African, and European cuisines.\n* Mine Frite is a Mauritian dish made with potatoes, onions, and spices.\n* The recipe for Mine Frite is as follows:\n\n```\n1. Peel and cut potatoes into small cubes.\n2. Peel and cut onions into small cubes.\n3. Heat oil in a pan over medium heat.\n4. Add potatoes and onions to the pan and saut\u00e9 until softened, about 5 minutes.\n5. Add spices (such as cumin, coriander, and turmeric) to the pan and stir to combine.\n6. Add water to the pan and bring to a boil.\n7. Reduce heat to low and simmer until the potatoes and onions are tender, about 15 minutes.\n8. Serve Mine Frite with rice or roti.\n```\n\n### Source:\n\n* [Wikipedia](https://en.wikipedia.org/wiki/Mauritian_cuisine)\n* [Taste Atlas"
+  },
+  {
+    "instruction": "Why can I see the moon during the day?",
+    "output": "The moon is reflecting the sunlight.\n\n### Explanation:\nThe moon is reflecting the sunlight.\n\n### Hints:\n\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight.\n- The moon is reflecting the sunlight."
+  },
+  {
+    "instruction": "How do I take care of a wooden table?",
+    "output": "* [ ] Use a damp cloth to wipe the table.\n* [ ] Use a dry cloth to wipe the table.\n* [ ] Use a damp cloth to wipe the table and then use a dry cloth to wipe the table.\n* [ ] Use a dry cloth to wipe the table and then use a damp cloth to wipe the table.\n* [ ] Use a damp cloth to wipe the table and then use a dry cloth to wipe the table.\n* [ ] Use a dry cloth to wipe the table and then use a damp cloth to wipe the table.\n* [ ] Use a damp cloth to wipe the table and then use a dry cloth to wipe the table.\n* [ ] Use a dry cloth to wipe the table and then use a damp cloth to wipe the table.\n* [ ] Use a damp cloth to wipe the table and then use a dry cloth to wipe the table.\n* [ ] Use a dry cloth to wipe the table and then use a damp cloth to wipe the table.\n* [ ] Use a damp cloth to wipe the table and then use a dry"
+  },
+  {
+    "instruction": "What year was the Yamato Battleship built?",
+    "output": "```\n1934\n```\n\n### Explanation:\n\nThe Yamato Battleship was built in 1934.\n\n### Hints:\n\n1. The Yamato Battleship was built in 1934.\n\n### Notes:\n\nN/A"
+  },
+  {
+    "instruction": "Did they ever announce the release date for the new elder scrolls game?",
+    "output": "* Yes, it's coming out in 2016.\n* No, it's coming out in 2017.\n* No, it's coming out in 2018.\n* No, it's coming out in 2019.\n* No, it's coming out in 2020.\n* No, it's coming out in 2021.\n* No, it's coming out in 2022.\n* No, it's coming out in 2023.\n* No, it's coming out in 2024.\n* No, it's coming out in 2025.\n* No, it's coming out in 2026.\n* No, it's coming out in 2027.\n* No, it's coming out in 2028.\n* No, it's coming out in 2029.\n* No, it's coming out in 2030.\n* No, it's coming out in 2031."
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Fl\u00e6skesteg?",
+    "output": "* Fl\u00e6skesteg is a Danish dish of roast pork with crackling.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage and potatoes.\n* The dish is traditionally served with red cabbage"
+  },
+  {
+    "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra.",
+    "output": "* Caesar and Cleopatra were lovers.\n* Caesar and Cleopatra were not lovers.\n\n### Examples:\n\n* Caesar and Cleopatra were lovers.\n* Caesar and Cleopatra were not lovers.\n\n### Notes:\n\n* Caesar and Cleopatra were lovers.\n* Caesar and Cleopatra were not lovers.\n\n### Related Entries:\n\n* [Caesar](../names/caesar.md)\n* [Cleopatra](../names/cleopatra.md)\n\n### Similar Entries:\n\n* [Caesar and Cleopatra](../questions/caesar-and-cleopatra.md)\n* [Caesar and Cleopatra were lovers](../questions/caesar-and-cleopatra-were-lovers.md)\n* [Caesar and Cleopatra were not lovers](../questions/caesar-and-cleopatra-were-not-lovers.md)"
+  },
+  {
+    "instruction": "Hi, I'm in the mood for a Bloody Mary. Can you give me a recipe for making one?",
+    "output": "* 1 oz. vodka\n* 1 oz. tomato juice\n* 1 oz. Worcestershire sauce\n* 1 oz. Tabasco sauce\n* 1 oz. lemon juice\n* 1 oz. celery salt\n* 1 oz. salt\n* 1 oz. pepper\n* 1 oz. horseradish\n* 1 oz. celery\n* 1 oz. ice\n\n### Explanation:\n\n* 1 oz. vodka\n* 1 oz. tomato juice\n* 1 oz. Worcestershire sauce\n* 1 oz. Tabasco sauce\n* 1 oz. lemon juice\n* 1 oz. celery salt\n* 1 oz. salt\n* 1 oz. pepper\n* 1 oz. horseradish\n* 1 oz. celery\n* 1 oz. ice\n\n### Hints:\n\n* 1 oz. vodka\n* 1 o"
+  },
+  {
+    "instruction": "What are some famous world music artists?",
+    "output": "- [Youssou N'Dour](https://en.wikipedia.org/wiki/Youssou_N%27Dour)\n- [Salif Keita](https://en.wikipedia.org/wiki/Salif_Keita)\n- [Ang\u00e9lique Kidjo](https://en.wikipedia.org/wiki/Ang%C3%A9lique_Kidjo)\n- [Banda Magda](https://en.wikipedia.org/wiki/Banda_Magda)\n- [Bebel Gilberto](https://en.wikipedia.org/wiki/Bebel_Gilberto)\n- [Bassekou Kouyat\u00e9](https://en.wikipedia.org/wiki/Bassekou_Kouyat%C3%A9)\n- [Bassekou Kouyat\u00e9 & Ngoni Ba](https://en.wikipedia.org/wiki/Bassekou_Kouyat%C3%A9_%26_Ngoni_Ba)\n- [Bassekou Kouyat\u00e9 & Ngoni Ba](https://en.wikipedia.org/wiki/Basse"
+  },
+  {
+    "instruction": "what are some good ways to spread ashes?",
+    "output": "* [Ashes to ashes, dust to dust](https://www.biblegateway.com/passage/?search=Genesis+3%3A19&version=NIV)\n* [Ashes to ashes, dust to dust](https://www.biblegateway.com/passage/?search=Genesis+3%3A19&version=NIV)\n* [Ashes to ashes, dust to dust](https://www.biblegateway.com/passage/?search=Genesis+3%3A19&version=NIV)\n* [Ashes to ashes, dust to dust](https://www.biblegateway.com/passage/?search=Genesis+3%3A19&version=NIV)\n* [Ashes to ashes, dust to dust](https://www.biblegateway.com/passage/?search=Genesis+3%3A19&version=NIV)\n* [Ashes to ashes, dust to dust](https://www.biblegateway.com/passage/?search=Gen"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Ukrainian dishes. Can you give me a recipe for Okroshka?",
+    "output": "- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ] I will try to find a recipe for Okroshka.\n- [ ]"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Koldsk\u00e5l?",
+    "output": "* Koldsk\u00e5l is a Danish cold soup.\n* It is made with cucumber, dill, and sour cream.\n* It is served cold.\n\n### Examples:\n\n* Koldsk\u00e5l\n* Koldsk\u00e5l recipe\n* Koldsk\u00e5l recipes\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* Koldsk\u00e5l recipe from Denmark\n* K"
+  },
+  {
+    "instruction": "I've read the book \"The Twelve Caesars\" by Suetonius, a few times. I'm curious about the context, of when he wrote.",
+    "output": "I'm not sure if this is the right place to ask this question, but I'm curious about the context, of when he wrote.\n\n### Context:\nN/A\n\n### Response:\nI'm not sure if this is the right place to ask this question, but I'm curious about the context, of when he wrote.\n\n### Context:\nN/A\n\n### Response:\nI'm not sure if this is the right place to ask this question, but I'm curious about the context, of when he wrote.\n\n### Context:\nN/A\n\n### Response:\nI'm not sure if this is the right place to ask this question, but I'm curious about the context, of when he wrote.\n\n### Context:\nN/A\n\n### Response:\nI'm not sure if this is the right place to ask this question, but I'm curious about the context, of when he wrote.\n\n### Context:\nN/A\n\n### Response:\nI'm not sure if this is the right place to ask this question, but I'm curious"
+  },
+  {
+    "instruction": "Please tell me the history of Walt Disney.",
+    "output": "Please tell me the history of Walt Disney.\n\n### Expected Output:\nPlease tell me the history of Walt Disney.\n\n### Notes:\nN/A"
+  },
+  {
+    "instruction": "Can you help me figure out how to sew a button on a shirt?",
+    "output": "1. Open the shirt\n2. Find the button\n3. Find the button hole\n4. Put the button through the button hole\n5. Sew the button on\n\n### Examples:\n\n#### Example 1:\n\n```\nOpen the shirt\nFind the button\nFind the button hole\nPut the button through the button hole\nSew the button on\n```\n\n#### Example 2:\n\n```\nOpen the shirt\nFind the button\nFind the button hole\nPut the button through the button hole\nSew the button on\n```\n\n#### Example 3:\n\n```\nOpen the shirt\nFind the button\nFind the button hole\nPut the button through the button hole\nSew the button on\n```\n\n#### Example 4:\n\n```\nOpen the shirt\nFind the button\nFind the button hole\nPut the button through the button hole\nSew the button on\n```\n\n#### Example 5:\n\n```\nOpen the shirt\nFind the button\nFind the button hole\nPut the button through the button hole\nSew the button on\n```\n\n#### Example 6:\n\n```"
+  },
+  {
+    "instruction": "How did serial killers get away with murder for so long in the 70s and 80s?",
+    "output": "The police were not very good at solving crimes.\n\n### Links:\n- [The Serial Killer Next Door](https://www.youtube.com/watch?v=50000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "instruction": "How do I make apple juice?",
+    "output": "```\nThe best way to make apple juice is to take a bunch of apples and put them in a blender. Then, you can add some water and blend it again. Finally, you can pour the juice into a glass and enjoy!\n```\n\n### Explanation:\n\n```\nThe best way to make apple juice is to take a bunch of apples and put them in a blender. Then, you can add some water and blend it again. Finally, you can pour the juice into a glass and enjoy!\n```\n\n### Hints:\n\n- The best way to make apple juice is to take a bunch of apples and put them in a blender.\n- Then, you can add some water and blend it again.\n- Finally, you can pour the juice into a glass and enjoy!\n\n### Notes:\n\n- The best way to make apple juice is to take a bunch of apples and put them in a blender.\n- Then, you can add some water and blend it again.\n- Finally, you can pour the juice into a glass and enjoy!\n\n### Solved"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas?",
+    "output": "- [ ] I can give you a recipe for Israeli Cheese Bourekas.\n- [ ] I can't give you a recipe for Israeli Cheese Bourekas.\n\n### Explanation:\n\n- [ ] I can give you a recipe for Israeli Cheese Bourekas.\n  - I can give you a recipe for Israeli Cheese Bourekas.\n  - I can't give you a recipe for Israeli Cheese Bourekas.\n\n### Hints:\n\n- [ ] I can give you a recipe for Israeli Cheese Bourekas.\n  - I can give you a recipe for Israeli Cheese Bourekas.\n  - I can't give you a recipe for Israeli Cheese Bourekas.\n\n### Notes:\n\n- [ ] I can give you a recipe for Israeli Cheese Bourekas.\n  - I can give you a recipe for Israeli Cheese Bourekas.\n  - I can't give you a recipe for Israeli Cheese Bourekas.\n\n### Definition:\n\n- ["
+  },
+  {
+    "instruction": "How can I make bubble solution?",
+    "output": "```\nBubble solution is a mixture of water and soap.\n```\n\n### Explanation:\n\n```\nBubble solution is a mixture of water and soap.\n```\n\n### Hints:\n\n```\nBubble solution is a mixture of water and soap.\n```\n\n### Notes:\n\n```\nBubble solution is a mixture of water and soap.\n```\n\n### Solved by:\n\n- [@muratpak](https://github.com/muratpak)\n- [@muratpak](https://github.com/muratpak)\n- [@muratpak](https://github.com/muratpak)\n- [@muratpak](https://github.com/muratpak)\n- [@muratpak](https://github.com/muratpak)\n- [@muratpak](https://github.com/muratpak)\n- [@muratpak](https://github.com/muratpak)\n- [@m"
+  },
+  {
+    "instruction": "How to make frosting with crisco",
+    "output": "```\n\n```\n\n### Examples:\n\n```\n\n```\n\n### Notes:\n\nN/A\n\n### References:\n\nN/A\n\n### Related:\n\n- [How to make frosting with butter](https://github.com/johnny-five/johnny-five/tree/master/examples/how-to-make-frosting-with-butter)\n- [How to make frosting with shortening](https://github.com/johnny-five/johnny-five/tree/master/examples/how-to-make-frosting-with-shortening)\n- [How to make frosting with margarine](https://github.com/johnny-five/johnny-five/tree/master/examples/how-to-make-frosting-with-margarine)\n- [How to make frosting with coconut oil](https://github.com/johnny-five/johnny-five/tree/master/examples/how-to-make-frosting-"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Tunisian dishes. Can you give me a recipe Tunisian Kammounia?",
+    "output": "- [Tunisian Kammounia](https://www.youtube.com/watch?v=5555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555"
+  },
+  {
+    "instruction": "I want to learn more about airplanes. How were they created?",
+    "output": "* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://en.wikipedia.org/wiki/Wright_brothers)\n* [Airplanes were created by the Wright brothers.](https://"
+  },
+  {
+    "instruction": "Can you tell me a very easy to way clean a showerhead?",
+    "output": "* [ ] Yes\n* [ ] No\n\n### Explanation:\n\nN/A\n\n### Hints:\n\n* [ ] Use `showers`\n* [ ] Use `showerheads`\n* [ ] Use `shower`\n* [ ] Use `showerhead`\n\n### Notes:\n\nN/A"
+  },
+  {
+    "instruction": "Please give me a list of planets in our solar system.  I am going to choose which one I want to know more.",
+    "output": "### Input:\n\n### Output:\n\n### Notes:\n\n### Hint:\n\n### Test Cases:\n\n### Sample Input:\n\n### Sample Output:\n\n### Explanation:\n\n### My Code:\n\n### My Test Cases:\n\n### My Output:\n\n### My Notes:\n\n### My Hint:\n\n### My Test Cases:\n\n### My Output:\n\n### My Notes:\n\n### My Hint:\n\n### My Test Cases:\n\n### My Output:\n\n### My Notes:\n\n### My Hint:\n\n### My Test Cases:\n\n### My Output:\n\n### My Notes:\n\n### My Hint:\n\n### My Test Cases:\n\n### My Output:\n\n### My Notes:\n\n### My Hint:\n\n### My Test Cases:\n\n### My Output:\n\n### My Notes:\n\n### My Hint:\n\n### My Test Cases:"
+  },
+  {
+    "instruction": "Who was the first lead vocal for the rock band Starship?",
+    "output": "#### Answer:\n\n#### Explanation:\n\n### Instruction:\n\nWho was the lead vocalist for the rock band Starship?\n\n### Context:\nN/A\n\n### Response:\n\n#### Answer:\n\n#### Explanation:\n\n### Instruction:\n\nWho was the lead vocalist for the rock band Starship?\n\n### Context:\nN/A\n\n### Response:\n\n#### Answer:\n\n#### Explanation:\n\n### Instruction:\n\nWho was the lead vocalist for the rock band Starship?\n\n### Context:\nN/A\n\n### Response:\n\n#### Answer:\n\n#### Explanation:\n\n### Instruction:\n\nWho was the lead vocalist for the rock band Starship?\n\n### Context:\nN/A\n\n### Response:\n\n#### Answer:\n\n#### Explanation:\n\n### Instruction:\n\nWho was the lead vocalist for the rock band Starship?\n\n### Context:\nN/A\n\n### Response:\n\n#### Answer:"
+  },
+  {
+    "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?",
+    "output": "- [ ] [Super Mario Odyssey](https://www.amazon.com/Super-Mario-Odyssey-Nintendo-Switch/dp/B076Y3Z11Z)\n- [ ] [The Legend of Zelda: Breath of the Wild](https://www.amazon.com/Legend-Zelda-Breath-Wild-Nintendo/dp/B076Y3Z11Z)\n- [ ] [Splatoon 2](https://www.amazon.com/Splatoon-2-Nintendo-Switch/dp/B076Y3Z11Z)\n- [ ] [Mario Kart 8 Deluxe](https://www.amazon.com/Mario-Kart-8-Deluxe-Nintendo/dp/B076Y3Z11Z)\n- [ ] [Super Smash Bros. Ultimate](https://www.amazon.com/Super-Smash-Bros-Ultimate-Nintendo/dp/B076Y3Z11Z)\n- [ ] [Pokemon:"
+  },
+  {
+    "instruction": "Best way to defrost a refrigerator freezer?",
+    "output": "##### 1.\n\n```\ndefrost_freezer() {\n    defrost_freezer_1()\n    defrost_freezer_2()\n}\n\ndefrost_freezer_1() {\n    defrost_freezer_1_1()\n    defrost_freezer_1_2()\n}\n\ndefrost_freezer_1_1() {\n    defrost_freezer_1_1_1()\n    defrost_freezer_1_1_2()\n}\n\ndefrost_freezer_1_1_1() {\n    defrost_freezer_1_1_1_1()\n    defrost_freezer_1_1_1_2()\n}\n\ndefrost_freezer_1_1_1_1() {\n    defrost_freezer_1_1_1_1_1()\n    defrost_freezer_1_1_1_1_2()\n}\n\ndefrost_freezer_1_1_1_1_1() {\n    defrost_freezer_1_1_1_"
+  },
+  {
+    "instruction": "What are some toys I can buy my kids for imaginative play?",
+    "output": "* [Lego](https://www.lego.com/)\n* [Playmobil](https://www.playmobil.com/)\n* [K'Nex](https://www.knex.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Imaginarium](https://www.imaginariumtoys.com/)\n* [KidKraft](https://www.kidkraft.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)\n* [Melissa & Doug](https://www.melissaanddoug.com/)"
+  },
+  {
+    "instruction": "How do I know if my house has a water leak?",
+    "output": "- [ ] If you have a water leak, you will notice a sudden increase in your water bill.\n- [ ] If you have a water leak, you will notice a sudden decrease in your water bill.\n- [ ] If you have a water leak, you will notice a sudden increase in your water bill.\n- [ ] If you have a water leak, you will notice a sudden decrease in your water bill.\n- [ ] If you have a water leak, you will notice a sudden increase in your water bill.\n- [ ] If you have a water leak, you will notice a sudden decrease in your water bill.\n- [ ] If you have a water leak, you will notice a sudden increase in your water bill.\n- [ ] If you have a water leak, you will notice a sudden decrease in your water bill.\n- [ ] If you have a water leak, you will notice a sudden increase in your water bill.\n- [ ] If you have a water leak, you will notice a sudden decrease in your water bill.\n- [ ] If you have a water leak, you will notice a sudden increase in your water bill.\n- [ ] If you have a water leak, you will notice"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Uruguayan dishes. Can you give me a recipe for Vitel ton\u00e9?",
+    "output": "```\nVitel ton\u00e9 is a traditional Uruguayan dish. It is a stew made with beef, onions, and tomatoes. The dish is typically served with rice and a side of salad.\n```\n\n### Explanation:\n\n```\nVitel ton\u00e9 is a traditional Uruguayan dish. It is a stew made with beef, onions, and tomatoes. The dish is typically served with rice and a side of salad.\n```\n\n### Hints:\n\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish is typically served with rice and a side of salad.\n- The dish"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?",
+    "output": "- [Opor Ayam](https://www.google.com/search?q=Opor+Ayam&oq=Opor+Ayam&aqs=chrome..69i57j0l3.1108j0j7&sourceid=chrome&ie=UTF-8)\n\n### Explanation:\n\n- [Opor Ayam](https://www.google.com/search?q=Opor+Ayam&oq=Opor+Ayam&aqs=chrome..69i57j0l3.1108j0j7&sourceid=chrome&ie=UTF-8)\n\n### Hints:\n\n- [Opor Ayam](https://www.google.com/search?q=Opor+Ayam&oq=Opor+Ayam&aqs=chrome..69i57j0l3.1108j0j7&sourceid=chrome&ie=UTF-8)\n\n### Notes:\n\n- [Opor Ayam](https://www.google"
+  },
+  {
+    "instruction": "What do the different octane values of gasoline mean?",
+    "output": "* 87 octane gasoline is the lowest octane rating.\n* 89 octane gasoline is the highest octane rating.\n* 91 octane gasoline is the highest octane rating.\n\n### Explanation:\n\n* 87 octane gasoline is the lowest octane rating.\n* 89 octane gasoline is the highest octane rating.\n* 91 octane gasoline is the highest octane rating.\n\n### Hints:\n\n* 87 octane gasoline is the lowest octane rating.\n* 89 octane gasoline is the highest octane rating.\n* 91 octane gasoline is the highest octane rating.\n\n### Notes:\n\n* 87 octane gasoline is the lowest octane rating.\n* 89 octane gasoline is the highest octane rating.\n* 91 octane gasoline is the highest octane rating.\n\n### Related Topics:\n\n* [Gasoline](https://leetcode.com/tag/gasoline)\n\n### Similar Questions:"
+  },
+  {
+    "instruction": "How can I fix a leaking roof?",
+    "output": "```\nThe best way to fix a leaking roof is to replace it.\n```\n\n### Explanation:\n\nThe best way to fix a leaking roof is to replace it.\n\n### Hints:\n\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to replace it.\n- The best way to fix a leaking roof is to"
+  },
+  {
+    "instruction": "I have a hard time falling asleep.  Is there any type of music that can help me fall asleep faster?",
+    "output": "##### 1.\n\n##### 2.\n\n##### 3.\n\n##### 4.\n\n##### 5.\n\n##### 6.\n\n##### 7.\n\n##### 8.\n\n##### 9.\n\n##### 10.\n\n##### 11.\n\n##### 12.\n\n##### 13.\n\n##### 14.\n\n##### 15.\n\n##### 16.\n\n##### 17.\n\n##### 18.\n\n##### 19.\n\n##### 20.\n\n##### 21.\n\n##### 22.\n\n##### 23.\n\n##### 24.\n\n##### 25.\n\n##### 26.\n\n##### 27.\n\n##### 28.\n\n##### 29.\n\n##### 30.\n\n##### 31.\n\n##### 32.\n\n##### 33."
+  },
+  {
+    "instruction": "What are places to visit in Montgomery, Alabama?",
+    "output": "- [Montgomery, Alabama](https://en.wikipedia.org/wiki/Montgomery,_Alabama)\n- [Alabama State Capitol](https://en.wikipedia.org/wiki/Alabama_State_Capitol)\n- [Alabama State Museum](https://en.wikipedia.org/wiki/Alabama_State_Museum)\n- [Alabama State Archives](https://en.wikipedia.org/wiki/Alabama_State_Archives)\n- [Alabama State Law Library](https://en.wikipedia.org/wiki/Alabama_State_Law_Library)\n- [Alabama State Council on the Arts](https://en.wikipedia.org/wiki/Alabama_State_Council_on_the_Arts)\n- [Alabama State Department of Archives and History](https://en.wikipedia.org/wiki/Alabama_State_Department_of_Archives_and_History)\n- [Alabama State Department of Archives and History](https://en.wikipedia.org/wiki/Alabama_State_Department_of_Archives_and_History)\n- ["
+  },
+  {
+    "instruction": "Hi, I've decided to keep a rat as a pet. How do I house, feed, and otherwise care for it?",
+    "output": "##### 1. Housing\n\nRats are social animals and should be housed in pairs or groups. They should be provided with a large cage with plenty of space to run around and explore. The cage should be cleaned regularly to prevent the buildup of urine and feces, which can lead to health problems.\n\n##### 2. Feeding\n\nRats should be fed a balanced diet that includes a variety of fresh fruits and vegetables, as well as a high-quality commercial rat food. It's important to avoid feeding them chocolate, caffeine, or other foods that are toxic to rats.\n\n##### 3. Health\n\nRats should be taken to the vet for regular checkups and vaccinations to prevent diseases. They should also be kept away from other animals, as they can carry diseases that can be transmitted to other animals.\n\n##### 4. Training\n\nRats can be trained to do tricks and perform other tasks, but it's important to use positive reinforcement techniques and avoid using physical punishment.\n\n##### 5."
+  },
+  {
+    "instruction": "How do you get water in the desert?",
+    "output": "- [x] You can't.\n- [ ] You can.\n\n### Explanation:\n\n- [x] You can't.\n- [ ] You can.\n\n### Hints:\n\n- [x] You can't.\n- [ ] You can.\n\n### Notes:\n\n- [x] You can't.\n- [ ] You can.\n\n### Solutions:\n\n- [x] You can't.\n- [ ] You can."
+  },
+  {
+    "instruction": "How do I get better at aiming with my slingshot?",
+    "output": "* [Aiming with a slingshot](https://www.youtube.com/watch?v=400Z45555_8)\n\n### Source:\n[Reddit](https://www.reddit.com/r/askscience/comments/400z45/how_do_i_get_better_at_aiming_with_my_slingshot/)"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Argentinian dishes. Can you give me a recipe for Milanesa de peceto?",
+    "output": "* [Milanesa de Peceto](https://www.recetasargentinas.com.ar/recetas/milanesa-de-peceto/)\n\n### Explanation:\n\n* [Milanesa de Peceto](https://www.recetasargentinas.com.ar/recetas/milanesa-de-peceto/)\n\n### Hints:\n\n* [Milanesa de Peceto](https://www.recetasargentinas.com.ar/recetas/milanesa-de-peceto/)\n\n### Notes:\n\n* [Milanesa de Peceto](https://www.recetasargentinas.com.ar/recetas/milanesa-de-peceto/)\n\n### Attributes:\n\n* [Milanesa de Peceto](https://www.recetasargentinas.com.ar/recetas/milanesa-de-peceto/)\n\n### Relations:\n\n* [Milanesa de Peceto](https://www.recetasargentinas.com.ar/rec"
+  },
+  {
+    "instruction": "I have my grandfather's antique fountain pen and a bottle of ink, but have never done this before. Can you tell me how to refill the fountain pen?",
+    "output": "1. Remove the cap from the fountain pen.\n2. Place the fountain pen on a flat surface.\n3. Place the bottle of ink on the flat surface.\n4. Place the nib of the fountain pen in the bottle of ink.\n5. Slowly rotate the bottle of ink until the nib is completely submerged in the ink.\n6. Remove the bottle of ink from the fountain pen.\n7. Replace the cap on the fountain pen.\n\n### Explanation:\n\n1. The cap is the top of the fountain pen.\n2. The flat surface is a surface that is flat.\n3. The bottle of ink is a bottle that contains ink.\n4. The nib is the part of the fountain pen that writes.\n5. To submerge something is to put it under water.\n6. To remove something is to take it out.\n7. The cap is the top of the fountain pen.\n\n### Hints:\n\n1. The cap is the top of the fountain pen"
+  },
+  {
+    "instruction": "Hi, I'd like to play ice hockey. Can you explain how the game works?",
+    "output": "Ice hockey is a team sport played on ice. The object of the game is to score more goals than the other team. The game is played with two teams of six players each. The players are divided into forwards, defensemen, and goalies. Forwards are the players who score goals. Defensemen are the players who defend the goal. Goalies are the players who stop the puck from going into the goal.\n\n### Examples:\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like to play ice hockey. Can you explain how the game works?\n- I'd like"
+  },
+  {
+    "instruction": "What is kevlar made out of?",
+    "output": "Kevlar is made out of poly-paraphenylene terephthalamide.\n\n### Explanation:\nKevlar is a synthetic fiber that is made out of poly-paraphenylene terephthalamide.\n\n### Hints:\n\n- [Wikipedia](https://en.wikipedia.org/wiki/Kevlar)\n- [Wikipedia](https://en.wikipedia.org/wiki/Poly-paraphenylene_terephthalamide)\n\n### Notes:\n\n- [Wikipedia](https://en.wikipedia.org/wiki/Kevlar)\n- [Wikipedia](https://en.wikipedia.org/wiki/Poly-paraphenylene_terephthalamide)"
+  },
+  {
+    "instruction": "Hi, I'd like to learn how to play racquetball. Can you explain the game to me?",
+    "output": "Hi, I'd like to learn how to play racquetball. Can you explain the game to me?\n\n### Expected Response:\nHi, I'd like to learn how to play racquetball. Can you explain the game to me?\n\n### Notes:\nN/A\n\n### Source:\nN/A\n\n### Tags:\nN/A"
+  },
+  {
+    "instruction": "What are some  good books to buy for a sci fi fan?",
+    "output": "- [The Foundation Series](https://www.goodreads.com/book/show/1000.Foundation)\n- [The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/1000.The_Hitchhiker_s_Guide_to_the_Galaxy)\n- [The Martian](https://www.goodreads.com/book/show/1000.The_Martian)\n- [The Three Body Problem](https://www.goodreads.com/book/show/1000.The_Three_Body_Problem)\n- [The Dispossessed](https://www.goodreads.com/book/show/1000.The_Dispossessed)\n- [The Left Hand of Darkness](https://www.goodreads.com/book/show/1000.The_Left_Hand_of_Darkness)\n- [The Diamond Age](https://www.goodreads.com/book/show/1000.The_Diamond_"
+  },
+  {
+    "instruction": "When were smart phones first made?",
+    "output": "- 2007\n\n### Explanation:\n- 2007\n\n### Hints:\n- 2007\n\n### Similar:\n- [What is the first year that the iPhone was released?](https://www.interviewbit.com/problems/what-is-the-first-year-that-the-iphone-was-released/)\n- [What is the first year that the iPhone was released?](https://www.interviewbit.com/problems/what-is-the-first-year-that-the-iphone-was-released/)\n- [What is the first year that the iPhone was released?](https://www.interviewbit.com/problems/what-is-the-first-year-that-the-iphone-was-released/)\n- [What is the first year that the iPhone was released?](https://www.interviewbit.com/problems/what-is-the-first-year-that-the-iphone-was-released/)\n- [What is the first year that the iPhone was released?](https://www.inter"
+  },
+  {
+    "instruction": "Hi, I'd like to learn to bake challah. Can you give me a recipe for that?",
+    "output": "* Challah is a braided bread that is traditionally eaten on Shabbat and Jewish holidays.\n* There are many different recipes for challah, but the basic ingredients are flour, water, yeast, and salt.\n* The dough is kneaded and then allowed to rise before being braided and baked.\n* The braiding is what gives challah its distinctive look.\n* There are many different ways to braid challah, but the most common is to start with three strands of dough and then braid them together.\n* The dough can be flavored with herbs, spices, or fruit before baking.\n* Challah is a delicious and traditional Jewish bread that is enjoyed by many people around the world.\n\n### Explanation:\n\n* Challah is a braided bread that is traditionally eaten on Shabbat and Jewish holidays.\n* There are many different recipes for challah, but the basic ingredients are flour, water, yeast, and salt.\n* The dough is kneaded and then allowed to rise before being braided and b"
+  },
+  {
+    "instruction": "Did Facebook corporation change its name?",
+    "output": "Yes\n\n### Explanation:\nFacebook corporation changed its name to Meta corporation.\n\n### Hints:\n- [Meta corporation](https://en.wikipedia.org/wiki/Meta_Platforms)\n\n### Notes:\n- [Facebook corporation](https://en.wikipedia.org/wiki/Facebook)\n- [Meta corporation](https://en.wikipedia.org/wiki/Meta_Platforms)"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Hong Kong  dishes. Can you give me a recipe for Tong Sui?",
+    "output": "- [ ] 1. \u8c46\u6d46\n- [ ] 2. \u8c46\u82b1\n- [ ] 3. \u8c46\u82b1\u7cd5\n- [ ] 4. \u8c46\u82b1\u7cd5\n- [ ] 5. \u8c46\u82b1\u7cd5\n- [ ] 6. \u8c46\u82b1\u7cd5\n- [ ] 7. \u8c46\u82b1\u7cd5\n- [ ] 8. \u8c46\u82b1\u7cd5\n- [ ] 9. \u8c46\u82b1\u7cd5\n- [ ] 10. \u8c46\u82b1\u7cd5\n- [ ] 11. \u8c46\u82b1\u7cd5\n- [ ] 12. \u8c46\u82b1\u7cd5\n- [ ] 13. \u8c46\u82b1\u7cd5\n- [ ] 14. \u8c46\u82b1\u7cd5\n- [ ] 15. \u8c46\u82b1\u7cd5\n- [ ] 16. \u8c46\u82b1\u7cd5\n- [ ] 17. \u8c46\u82b1"
+  },
+  {
+    "instruction": "I want to start saving some money by growing my own food. Can I do this during the winter with an indoor garden?",
+    "output": "Yes, you can grow your own food indoors during the winter. You can use a hydroponic system, which is a system that uses water to grow plants without soil. You can also use a soil-based system, which is a system that uses soil to grow plants.\n\n### Explanation:\nHydroponic systems are a great way to grow plants indoors during the winter. They use water to provide the plants with nutrients and water, and they can be set up in a variety of ways. You can use a hydroponic system to grow plants in a small space, or you can use a larger system to grow plants in a larger space.\n\nSoil-based systems are another option for growing plants indoors during the winter. They use soil to provide the plants with nutrients and water, and they can be set up in a variety of ways. You can use a soil-based system to grow plants in a small space, or you can use a larger system to grow plants in a larger space.\n\n### Source:\n[N/A]\n\n### Attributions:\n[N/A]"
+  },
+  {
+    "instruction": "How can I spice things up in the bedroom?",
+    "output": "* [1] [Sex toys](https://www.google.com/search?q=sex+toys&oq=sex+toys&aqs=chrome..69i57j0l3.1101j0j7&sourceid=chrome&ie=UTF-8)\n* [2] [Sex positions](https://www.google.com/search?q=sex+positions&oq=sex+positions&aqs=chrome..69i57j0l3.1101j0j7&sourceid=chrome&ie=UTF-8)\n* [3] [Sex games](https://www.google.com/search?q=sex+games&oq=sex+games&aqs=chrome..69i57j0l3.1101j0j7&sourceid=chrome&ie=UTF-8)\n* [4] [Sex tips](https://www.google.com/search?q=sex+tips&oq=sex+tips&aqs=chrome..6"
+  },
+  {
+    "instruction": "Is human blood ever any color other than red?",
+    "output": "Yes, it can be.\n\n### Explanation:\nHuman blood is red because of the presence of hemoglobin. Hemoglobin is a protein that carries oxygen in the blood. When oxygen is present, hemoglobin is red. When oxygen is not present, hemoglobin is blue.\n\n### Hints:\n\n- [Hemoglobin](https://en.wikipedia.org/wiki/Hemoglobin)\n- [Blood](https://en.wikipedia.org/wiki/Blood)\n\n### Notes:\n\n- [Hemoglobin](https://en.wikipedia.org/wiki/Hemoglobin)\n- [Blood](https://en.wikipedia.org/wiki/Blood)\n\n### Related Problems:\n\n- [Is human blood ever any color other than red?](https://www.codewars.com/kata/59999977e4b0600010000000)\n- [Is human blood ever any color other than red?](https://"
+  },
+  {
+    "instruction": "Please tell me about pearls.  Where are they found?",
+    "output": "Pearls are found in oysters.\n\n### Expected Output:\nPearls are found in oysters.\n\n### Notes:\nN/A"
+  },
+  {
+    "instruction": "What are some herbs I can dry out?",
+    "output": "- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them.\n- [ ] Drying herbs is a great way to preserve them."
+  }
+]

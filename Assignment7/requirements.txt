@@ -1,0 +1,11 @@
+torch>=2.2.0
+transformers>=4.44.0
+datasets>=2.19.0
+peft>=0.11.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0
+tqdm
+sentencepiece
+protobuf
+alpaca-eval @ git+https://github.com/tatsu-lab/alpaca_eval.git
+fschat @ git+https://github.com/lm-sys/FastChat.git
